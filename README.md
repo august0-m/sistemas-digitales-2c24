@@ -1,3 +1,3 @@
-# sd
+# Sistemas Digitales
 
-Guias y talleres de sistemas digitales
+Guias y talleres de sistemas digitales resueltos.
